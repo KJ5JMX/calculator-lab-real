@@ -18,3 +18,14 @@ run node calculator.js to see the history
 
 run node calculator.js clear to clear the history.
 
+
+
+HOW TO RUN: web
+
+Open the html file. 
+
+use the calculator to do your 2 number calculations. 
+
+press "c" to clear your calculations 
+
+press "show history" to reveal your calculations. 
